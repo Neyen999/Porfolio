@@ -6,7 +6,9 @@ export const ProjectsContainer = () => {
   return (
     <section className="plans" id="proyectos">
       <h2 className="heading__lvl--two">Mis Proyectos</h2>
-      <Projects slides={SliderData}/>
+      <div className="plans__container">
+        <Projects slides={SliderData}/>
+      </div>
     </section>
   )
 }

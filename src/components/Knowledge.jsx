@@ -7,6 +7,7 @@ export const Knowledge = ({ type, iconType, children }) => {
       <i className={`fab fa-${iconType} icon-config`}></i>
       {children}
     </div>
+    
     </>
   );
 };

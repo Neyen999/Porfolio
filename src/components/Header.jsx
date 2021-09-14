@@ -24,7 +24,6 @@ export const Header = () => {
 
   return (
     <header className="header" id="header">
-      <h2 className="animate__animated animate__fadeInLeft heading__lvl--two">Neyen</h2>
       <i onClick={toggleButton} className="fas fa-bars animate__animated animate__fadeInRight" id="burger-button"></i>
         <ul className="header__nav--list">
           <li><a href="#header" id="inicio">Inicio</a></li>

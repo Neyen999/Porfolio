@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import './styles/styles.css';
+// import './styles/styles.css';
+import './styles/main/style.css';
 import { Header } from './components/Header';
 import { Banner } from './components/Banner';
 import { KnowledgeContainer } from './container/knowledgeContainer';
