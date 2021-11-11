@@ -28,9 +28,9 @@ export const Projects = ({ slides }) => {
               {
                 slide.usedTech.map((techs, index) => (
                     <Knowledge key={index} type={techs} iconType={techs}>
-                      { techs == "vercel" && <IoLogoVercel />}
-                      { techs == "styledcomponents" && <SiStyledComponents />}
-                      { techs == "gql" && <GrGraphQl />}
+                      { techs === "vercel" && <IoLogoVercel />}
+                      { techs === "styledcomponents" && <SiStyledComponents />}
+                      { techs === "gql" && <GrGraphQl />}
                     </Knowledge>
                 ))
               }
