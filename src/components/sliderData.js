@@ -2,13 +2,48 @@ export const SliderData = [
   {
     image: "https://i.postimg.cc/7Z1W8xKm/batatacoin.jpg",
     name: "Batatacoin",
-    description: ", 'La próxima revolución en el intercambio de criptomonedas'. Un proyecto realizado para el curso de Responsive Web Design Mobile First de Platzi, basandonos en un diseño en figma y útilizando HTML CSS y JS",
-    anchor: "https://neyen999.github.io/batatacoin/"
+    anchor: "https://neyen999.github.io/batatacoin/",
+    repository: "https://github.com/Neyen999/batatacoin",
+    usedTech: [
+      "html5",
+      "css3-alt",
+      "js"
+    ]
+  },
+  {
+    image: "https://i.postimg.cc/43kTXFny/crowfund.png",
+    name: "Crowfund",
+    anchor: "https://neyen999.github.io/frontendmentor--crowfound/",
+    repository: "https://github.com/Neyen999/frontendmentor--crowfound",
+    usedTech: [
+      "html5",
+      "css3-alt",
+      "js"
+    ]
   },
   {
     image: "https://i.postimg.cc/Yjc7bthd/image-psd-2.png",
     name: "Petgram",
-    description: ", la red social para tus mascotas, donde podras ver los animales más bellos y con más filtros del mundo. Este es un proyecto realizado para el Curso Avanzado de React, utilizando GraphQL como backend, haciendo deploy en Vercel y utilizando styled-components",
-    anchor: "https://rickandmorty-pedia.netlify.app/"
+    anchor: "https://petgram-tan-eta.vercel.app/",
+    repository: "https://github.com/Neyen999/petgram",
+    usedTech: [
+      "js",
+      "react",
+      "vercel",
+      "gql",
+      "styledcomponents"
+    ]
+  },
+  {
+    image: "https://i.postimg.cc/WzNB9X74/urlshortener.png",
+    name: "URL Shortener",
+    anchor: "https://neyen999.github.io/url-shortener/",
+    repository: "https://github.com/Neyen999/url-shortener",
+    usedTech: [
+      "html5",
+      "css3-alt",
+      "js",
+      "react"
+    ]
   }
 ];
