@@ -45,7 +45,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neyen999/Porfolio.git"
+    "url": "git+https://github.com/Neyen999/neyen-marinelli"
   },
   "keywords": [
     "React",
@@ -55,7 +55,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neyen999/Porfolio/issues"
+    "url": "https://github.com/Neyen999/neyen-marinelli/issues"
   },
-  "homepage": "https://github.com/Neyen999/Porfolio"
+  "homepage": "https://Neyen999/neyen-marinelli"
 }
